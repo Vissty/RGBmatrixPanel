@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+RGBmatrixPanel   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+drawPixel  KEYWORD2
+fillScreen  KEYWORD2
+updateDisplay  KEYWORD2
+swapBuffers  KEYWORD2
+dumpMatrix  KEYWORD2
+backBuffer  KEYWORD2
+Color333  KEYWORD2
+Color444  KEYWORD2
+Color888  KEYWORD2
+Color888  KEYWORD2
+ColorHSV  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
