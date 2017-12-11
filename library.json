@@ -1,6 +1,6 @@
 {
     "name": "RGBmatrixPanel",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": "RGB,matrix",
     "description": "RGB矩阵面板（适合32x16和32x32点阵)驱动库",
     "repository": {
